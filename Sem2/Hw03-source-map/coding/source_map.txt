@@ -1,0 +1,5 @@
+"version": 3,
+"file": "output_file.js",
+"source": ["input_file.cpp"],
+"names": ["a=4", "b=5", "c=a+b", "cout<<c"],
+"mappings": "KAKSA; KAMSC; KAOSE; CAQKG"

@@ -1,0 +1,9 @@
+version: 3
+Output file: output_file.js
+Input file: input_file.cpp
+    Output file   | Input index |     Input file    | Name
+------------------------------------------------------------
+Line: 1 Column: 5 |      0      | Line: 5 Column: 9 | a=4
+Line: 2 Column: 5 |      0      | Line: 6 Column: 9 | b=5
+Line: 3 Column: 5 |      0      | Line: 7 Column: 9 | c=a+b
+Line: 4 Column: 1 |      0      | Line: 8 Column: 5 | cout<<c
