@@ -1,0 +1,9 @@
+Size table: 20000000
+Total words: 151830
+Uncial words: 15714
+Most popular word: the
+Most popular word frequency: 0.042528
+Longest list length: 2
+Shortest list length: 0
+Average list length: 0.000786
+Percent of empty lists: 99.921465
